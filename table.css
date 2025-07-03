@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+header img{
+    width: 100px;
+    height: 100px;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+}
+
+header h5{
+    text-align: end;
+    background-color: rgba(1, 163, 1,40%);
+    padding: 3px;
+    color: white;
+}
+
+#a{
+    padding: 5px;
+    background-color: rgb(2, 158, 2);
+    color: white;
+}
+
+#b{
+    background-color: green;
+    padding: 10px 5px;
+    color: rgb(206, 204, 204);
+}
+
+main{
+    max-width: 380px;
+    margin: 0 auto;
+}
+
+label{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+fieldset{
+    padding: 10px 50px;
+    margin-top: 15px;
+}
+
+select{
+    width: 60%;
+}
+
+legend{
+    color: rgb(0, 0, 105);
+    font-size: 20px;
+    text-align: center;
+}
+
+.img img{
+    height: 100%;
+}
+
+pre{
+    display: inline;
+}
+
+.text{
+    display: flex;
+    padding-top: 2px;
+    gap: 79%;
+    width: 64px;
+    
+}
+
+.mark{
+    padding-bottom:10%;
+    margin-right: 25px;
+}
+
+.select-all{
+    margin-left: 50px;
+    display: flex;
+    width: 100%;
+}
+
+.text1{
+    display: flex;
+    gap: 15%;
+    
+}
+
+#select1{
+    margin-left: 20px;
+    width: 100%;
+    
+}
+
+.text2{
+    display: flex;
+    padding-top: 2px;
+    gap: 65%;
+    width: 64px;
+}
+
+.text3{
+    display: flex;
+    padding-top: 2px;
+    gap: 53%;
+    width: 64px;
+}
+
+.text4{
+    display: flex;
+    padding-top: 2px;
+    gap: 83%;
+    width: 64px;
+}
